@@ -1,6 +1,8 @@
 ### Hi there 👋
+### Welcome to my GitHub Page
 
-My name is soeren and i am currently enrolled at Neue Fisches Web Development Course
+
+
 
 [![Soeren Dollings stats](https://github-readme-stats.vercel.app/api?username=soerendolling)](https://github.com/anuraghazra/github-readme-stats)
 
