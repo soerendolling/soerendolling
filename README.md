@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is soeren and i am currently enrolled at Neue Fisches Web Development Course
+
 [![Soeren Dollings stats](https://github-readme-stats.vercel.app/api?username=soerendolling)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soerendolling&theme=graywhite&hide=io,ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
